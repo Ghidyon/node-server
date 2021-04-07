@@ -1,6 +1,5 @@
 // use http module as a variable
 const http = require('http');
-// const { request } = require('node:http');
 
 // Create server with the http variable
 // createServer() accepts a callback function which takes request and response as arguments
